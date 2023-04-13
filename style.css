@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    padding: 0px;
+}
+
+#nav {
+    background-color: #FFD900;
+
+}
+
+#ccxp22 {
+    padding: 10px;
+}
+
+section {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+
+.coluna-1 {
+    width: 50%;
+    background-color: #514988;
+    padding: 0px;
+    width: 1000px;
+    height: 600px;
+}
+
+.coluna-2 {
+    width: 50%;
+    display: grid;
+    grid-auto-flow: column;
+    height: 50px;
+    
+   
+
+}
+
+#CCXP {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 40px;
+    color: #E33881;
+}
+
+main,
+h1 {
+
+    color: #F3C61F;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 85px;
+    align-items: center;
+    text-align: center;
+
+    color: #F3C61F;
+}
+
+#frase1 {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+#frase2 {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+
+
+#arlequina {
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    width: 700px;
+
+    margin-left: -800px;
+
+
+}
+
+button {
+    background: #514988;
+    height: 140px;
+    width: 450px;
+    border-radius: 20px;
+    flex-direction: row;
+    float: right;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 51px;
+    align-items: center;
+    text-align: center;
+    margin-right: 500px;
+    margin-top: 30px;
+    border: 0px;
+    color: #FFFFFF;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+h2 {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #F3C61F;
+}
+
